@@ -114,5 +114,5 @@ abstract class FavoriteGamesEnum {
 
 - [cspray/code-anvil](https://github.com/cspray/code-anvil) API to generate PHP7 code.
 - [symfony/console](https://github.com/symfony/Console) CLI application framework powering command line enum builder.
-- [danielstjules/stringy](danielstjules/stringy) A library that makes advanced string manipulations easy.
+- [danielstjules/stringy](https://github.com/danielstjules/stringy) A library that makes advanced string manipulations easy.
 - [morrisonlevi/ardent](https://github.com/morrisonlevi/Ardent) Library for various data structures.
