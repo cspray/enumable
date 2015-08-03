@@ -18,7 +18,9 @@ taken from the results of this guide.
 
 To generate the example code execute the following command from the directory you installed Enumable.
 
-`php app.php enumable:build Cspray\\FavoriteGames assassins_creed skyrim little_big_planet`
+```
+php app.php enumable:build Cspray\\FavoriteGames assassins_creed skyrim little_big_planet
+```
 
 This command will result in the following code being generated:
 
