@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c6ec99cb14a7420c755d9e6092c76f5b",
+    "hash": "82fb82538e0b71377b72df115b7904a9",
     "packages": [
         {
             "name": "cspray/code-anvil",
@@ -1183,6 +1183,8 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "~7"
+    },
     "platform-dev": []
 }

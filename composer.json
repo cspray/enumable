@@ -1,4 +1,8 @@
 {
+  "name": "cspray/enumable",
+  "description": "A library to creates type declarable enums.",
+  "license": "MIT",
+  "keywords": ["enum"],
   "repositories": [
     {
       "type": "vcs",
@@ -10,6 +14,7 @@
     }
   ],
   "require": {
+    "php": "~7",
     "cspray/code-anvil": "dev-master",
     "morrisonlevi/ardent": "dev-master",
     "symfony/console": "2.7.3",
