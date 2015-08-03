@@ -1,0 +1,27 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/cspray/phpunit-mock-objects"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/cspray/Ardent"
+    }
+  ],
+  "require": {
+    "cspray/code-anvil": "dev-master",
+    "morrisonlevi/ardent": "dev-master",
+    "symfony/console": "2.7.3",
+    "danielstjules/stringy": "~2.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.7.*",
+    "phpunit/phpunit-mock-objects": "dev-master"
+  },
+  "autoload": {
+    "psr-0": {
+      "Cspray\\": ["src/", "tests/"]
+    }
+  }
+}
