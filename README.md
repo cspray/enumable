@@ -24,7 +24,7 @@ php app.php enumable:build Cspray\\FavoriteGames assassins_creed skyrim little_b
 
 This command will result in the following code being generated:
 
-```
+```php
 <?php
 
 namespace Cspray;
@@ -42,7 +42,7 @@ interface FavoriteGames {
 }
 ```
 
-```
+```php
 <?php
 
 namespace Cspray;
