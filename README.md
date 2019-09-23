@@ -1,5 +1,7 @@
 # Enumable
 
+> This library does not represent my current thoughts on how to generate typesafe enums with PHP. Please see https://github.com/cspray/yape
+
 A PHP7 library to generate type-declarable enums.
 
 ## Installation
